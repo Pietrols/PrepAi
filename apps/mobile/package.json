@@ -1,0 +1,11 @@
+{
+  "name": "@prepai/mobile",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'mobile dev'",
+    "build": "echo 'mobile build'",
+    "lint": "echo 'mobile lint'",
+    "type-check": "echo 'mobile type-check'"
+  }
+}
