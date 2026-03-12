@@ -16,16 +16,16 @@ PrepAI simulates real interview conditions across six practice formats:
 
 ## Tech Stack
 
-| Layer          | Technology                                 |
-| -------------- | ------------------------------------------ |
-| Web            | React 19 + Vite + TypeScript               |
-| Mobile         | React Native + Expo                        |
-| API            | Node.js + Express + TypeScript             |
-| Database       | PostgreSQL + Prisma                        |
-| Cache / Queues | Redis + BullMQ                             |
-| Real-time      | Socket.io + WebRTC                         |
-| AI             | OpenAI GPT-4o, Claude, ElevenLabs, Whisper |
-| Monorepo       | Turborepo                                  |
+| Layer          | Technology                                           |
+| -------------- | ---------------------------------------------------- |
+| Web            | React 19 + Vite + TypeScript                         |
+| Mobile         | React Native + Expo                                  |
+| API            | Node.js + Express + TypeScript                       |
+| Database       | PostgreSQL + Prisma                                  |
+| Cache / Queues | Redis + BullMQ                                       |
+| Real-time      | Socket.io + WebRTC                                   |
+| AI             | OpenAI GPT-4o, Gemini 3, Claude, ElevenLabs, Whisper |
+| Monorepo       | Turborepo                                            |
 
 ## Getting Started (Development)
 
