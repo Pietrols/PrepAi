@@ -51,3 +51,5 @@ Full platform specification: [docs/PLATFORM_DESIGN.md](docs/PLATFORM_DESIGN.md)
 ## License
 
 MIT
+
+Made with Love
